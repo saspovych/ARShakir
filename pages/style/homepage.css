@@ -941,14 +941,17 @@ footer img {
 	    right: 5%;
 	    width: 80%;
 	}
-	header .wrapper, .header__left_side, .header__navigation nav ul {
+	.header__left_side {
+	    width: 15%;
+	}
+	.header__navigation nav ul {
 		display: none;
 	}
 	.dark_button, .light_button {
-	    font-size: 10px;
+	    font-size: 9px;
 	    line-height: 25px;
 	    height: 25px;
-	    width: 70px;
+	    width: 75px;
 	}
 	.main__info {
 	    width: 90%;
